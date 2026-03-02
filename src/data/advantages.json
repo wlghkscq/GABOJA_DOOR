@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "AUTO센서 & 버튼",
+    "description": "센서작동으로 편리하게 출입이 가능하며, 실내에서는 버튼스위치로 편리하게 이용 가능합니다.",
+    "image": "/src/image/adv_auto.jpg"
+  },
+  {
+    "id": 2,
+    "title": "알루미늄 도어 프레임",
+    "description": "내구성이 강한 알루미늄 도어로 휘어짐이나 변형없이 오래도록 사용 가능합니다!",
+    "image": "/src/image/adv_alu.jpg"
+  },
+  {
+    "id": 3,
+    "title": "슬림 도어 프레임",
+    "description": "기존 제품에 비해 더욱 슬림해진 프레임으로 넓은 개방감을 연출 가능합니다!",
+    "image": "/src/image/adv_slim.jpg"
+  },
+  {
+    "id": 4,
+    "title": "가이드 레일 방식의 연동도어",
+    "description": "와이어 방식의 연동으로 부드럽게 열고 닫힐 수 있으며, A/S가 가능합니다!",
+    "image": "/src/image/adv_rail.jpg"
+  }
+]

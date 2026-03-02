@@ -1,0 +1,79 @@
+[
+  { 
+    "id": "p1", 
+    "name": "원 슬라이딩 도어", 
+    "category": "slide_1_door", 
+    "description": "공간 활용이 뛰어난 원 슬라이딩 도어", 
+    "image": "/src/image/slide_1_door/one_slide_1.png" 
+  },
+  { 
+    "id": "p2", 
+    "name": "3연동 슬라이딩 도어", 
+    "category": "slide_3_door", 
+    "description": "가장 대중적인 3연동 슬라이딩 도어", 
+    "image": "/src/image/slide_3_door/three_slide_1.png" 
+  },
+  { 
+    "id": "p3", 
+    "name": "4연동 슬라이딩 도어", 
+    "category": "slide_4_door", 
+    "description": "넓은 개구부에 적합한 4연동 슬라이딩 도어", 
+    "image": "/src/image/slide_4_door/four_slide_1.png" 
+  },
+  { 
+    "id": "p4", 
+    "name": "6연동 슬라이딩 도어", 
+    "category": "slide_6_door", 
+    "description": "최대 개방감을 선사하는 6연동 슬라이딩 도어", 
+    "image": "/src/image/slide_6_door/six_slide_1.png" 
+  },
+  { 
+    "id": "p5", 
+    "name": "자동 슬라이딩 도어", 
+    "category": "slide_auto", 
+    "description": "편리한 센서 방식의 자동 슬라이딩 도어", 
+    "image": "/src/image/slide_auto/auto_slide_1.png" 
+  },
+  { 
+    "id": "p6", 
+    "name": "반자동 슬라이딩 도어", 
+    "category": "slide_semi_auto", 
+    "description": "부드러운 닫힘 기능의 반자동 슬라이딩 도어", 
+    "image": "/src/image/slide_semi_auto/semi_auto_1.png" 
+  },
+  { 
+    "id": "p7", 
+    "name": "파티션 슬라이딩 도어", 
+    "category": "slide_partition", 
+    "description": "공간 분리에 최적화된 파티션형 슬라이딩 도어", 
+    "image": "/src/image/slide_partition/partition_door_1.png" 
+  },
+  { 
+    "id": "p8", 
+    "name": "스윙 도어", 
+    "category": "swing_door", 
+    "description": "양방향 개폐가 가능한 편리한 스윙 도어", 
+    "image": "/src/image/swing_door/swing_door_1.png" 
+  },
+  { 
+    "id": "p9", 
+    "name": "ㄱ자형 슬라이딩 도어", 
+    "category": "slide_elbow", 
+    "description": "코너 공간을 활용한 ㄱ자형 슬라이딩 도어", 
+    "image": "/src/image/slide_elbow/elbow_slide_1.png" 
+  },
+  { 
+    "id": "p10", 
+    "name": "싱글 도어", 
+    "category": "one_door", 
+    "description": "심플하고 모던한 싱글 여닫이 도어", 
+    "image": "/src/image/single_door/single_door_1.png" 
+  },
+  { 
+    "id": "p11", 
+    "name": "더블 도어", 
+    "category": "double_door", 
+    "description": "웅장하고 고급스러운 더블 여닫이 도어", 
+    "image": "/src/image/double_door/double_door_1.png" 
+  }
+]
